@@ -1,0 +1,21 @@
+---
+title: "Post With Code"
+description: "Post description"
+author: "Big Head"
+date: "5/22/2021"
+categories:
+  - news
+  - code
+  - analysis
+---
+
+## Header Level 2
+
+My first post!
+
+Here's some R code and results:  
+
+```{r}
+plot(cars)
+```
+

@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Nelson Bighetti"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: darkly
+    mainfont: "Arial"
+    fontsize: 1.1em
+    fontcolor: "#faf3de"
+    linkcolor: "white"
+

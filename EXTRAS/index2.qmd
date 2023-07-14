@@ -1,0 +1,19 @@
+---
+title: "Nelson Bighetti"
+---
+
+::: {.columns}
+::: {.column width="45%"}
+Nelson "Big Head" Bighetti is of Italian heritage and was raised in Arizona. He attended Arizona State University for 5 years before dropping out. He is the best friend of Richard, who he formerly lived and worked with in the Hacker Hostel (an incubator owned by Erlich) with Gilfoyle and Dinesh. He admittedly isn't great at any one aspect of building sites or coding, but Big Head is considered more of a **jack of all trades**.
+
+Nelson is a competent enough software developer to maintain a low-level job at Hooli, but does not bring any exceptional skill to cutting-edge projects such as Pied Piper, which causes a mismatch with his genius-level coworkers. [Source 1](https://silicon-valley.fandom.com/wiki/Big_Head). [Source 2](https://media.giphy.com/media/mXuPwCWpd2WLV5WCSQ/giphy.gif).
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="40%"}
+![](https://media.giphy.com/media/mXuPwCWpd2WLV5WCSQ/giphy.gif)
+:::
+:::
