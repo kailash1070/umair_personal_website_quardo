@@ -7,9 +7,19 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f4ce8cd-c29b-4ee6-b67d-d58cb5ee9ad3/dao87ao-7c1fc519-52fb-401d-8b46-54dbaad6fb88.png/v1/fill/w_1024,h_832,q_80,strp/publish_or_perish_by_velica_dao87ao-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODMyIiwicGF0aCI6IlwvZlwvNGY0Y2U4Y2QtYzI5Yi00ZWU2LWI2N2QtZDU4Y2I1ZWU5YWQzXC9kYW84N2FvLTdjMWZjNTE5LTUyZmItNDAxZC04YjQ2LTU0ZGJhYWQ2ZmI4OC5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.tn2xq0p_jWUJE_ZTZ-5gWtYWLCQP0OqIC50cuy7UMm0
+        target: _blank
+        text: Publications
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
-    theme: cosmo
-
+    theme: darkly
+    mainfont: "Arial"
+    fontsize: 1.1em
+    fontcolor: "#faf3de"
+    linkcolor: "white"
 

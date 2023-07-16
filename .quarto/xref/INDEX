@@ -34,5 +34,14 @@
   },
   "posts/second_post/Second_post.qmd": {
     "Second_post.html": "f4b4fcdb"
+  },
+  "EXTRAS/index3.qmd": {
+    "index3.html": "ca017176"
+  },
+  "EXTRAS/index2.qmd": {
+    "index2.html": "17cc0bc9"
+  },
+  "EXTRAS/index1.qmd": {
+    "index1.html": "cab0dd4f"
   }
 }

@@ -2,4 +2,57 @@
 title: "Nelson Bighetti"
 ---
 
-My awesome website!
+::: {.columns}
+::: {.column width="45%"}
+Highly motivated and detail-oriented professional with a strong background in software development. With ability to work independently and as part of a team to solve challenging problems. Strong communication and analytical skills, with a passion for learning and exploring new technologies. **jack of all trades**.
+
+Nelson is a competent enough software developer to maintain a low-level job at Hooli, but does not bring any exceptional skill to cutting-edge projects such as Pied Piper, which causes a mismatch with his genius-level coworkers. [Source 1](https://silicon-valley.fandom.com/wiki/Big_Head). [Source 2](https://media.giphy.com/media/mXuPwCWpd2WLV5WCSQ/giphy.gif).
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="40%"}
+![](https://media.giphy.com/media/mXuPwCWpd2WLV5WCSQ/giphy.gif)
+:::
+:::
+
+
+::: {.columns}
+
+::: {.column}
+## Interests
+
+-   Python, 
+-   C, 
+-   C++, 
+-   JavaScript
+:::
+
+::: {.column}
+## Education
+
+
+
+-   **Ph.D. Computer Science**    
+    University of University, City, Country
+    
+-   **M.Sc Computer Science**    
+    University of University, City, Country
+    
+-   **B.Sc Computer Science**    
+    University of University, City, Country    
+
+:::
+
+:::
+
+
+
+
+
+## NOTES: 
+
+- [Available themes](https://quarto.org/docs/output-formats/html-themes.html)  
+- [Basic Options](https://quarto.org/docs/output-formats/html-themes.html#basic-options)
